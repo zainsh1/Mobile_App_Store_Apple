@@ -7,7 +7,9 @@ The ever-changing mobile landscape is a challenging space to navigate. . The per
 
 With million of apps around nowadays, the following data set has become very key to getting top trending apps in iOS app store. This data set contains more than 7000 Apple iOS mobile application details. The data was extracted from the iTunes Search API at the Apple Inc website. R and linux web scraping tools were used for this study.
 
-Dataset Link - https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps?resource=download
+[SQL Queries](https://github.com/zainsh1/Mobile_App_Store_Apple/blob/main/SQL%20queries)
+
+[Dataset Link](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps?resource=download)
 
 ## As part of this Analysis & Cleaning - Trying to answer a few questions
 
